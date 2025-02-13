@@ -9,3 +9,14 @@ button{
     cursor: pointer;
     text-align: center;
 }
+
+.keys{
+    /*display: grid;
+    grid-template-columns: repeat(4, 1fr); /*fr is fractional unit, 1fr makes it take up even space*/
+    gap: 10px;
+    padding: 20px;
+}
+
+#display{
+    width: 100%;
+}
